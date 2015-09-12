@@ -1,2 +1,1 @@
-# fis3-phalcon
-Front-end engineering solutions for  phalconplus or phalcon framework Based on FIS3 
+基于 FIS3 的针对 phalcon及phalconplus 框架的前端工程解决方案

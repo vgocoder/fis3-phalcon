@@ -1,0 +1,22 @@
+{
+  "name": "fis3-phalcon",
+  "version": "0.0.2",
+  "description": "基于 FIS3 的针对 phalcon及phalconplus 框架的前端工程解决方案",
+  "main": "index.js",
+  "bin": {
+    "fis3-phalcon": "fis3-phalcon.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zh3557",
+  "license": "ISC",
+  "readme": "README.md",
+  "dependencies": {
+    "fis-parser-less": "^0.1.3",
+    "fis3": "^3.0.6",
+    "fis3-hook-module": "^1.1.1",
+    "liftoff": "^2.1.0",
+    "minimist": "^1.1.1"
+  }
+}
