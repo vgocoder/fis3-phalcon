@@ -1,4 +1,4 @@
-//vi hsl/index.js
+//vi fis3-phalcon/index.js
 var fis = module.exports =  require('fis3');
 
 fis.require.prefixes.unshift('fis3-phalcon');

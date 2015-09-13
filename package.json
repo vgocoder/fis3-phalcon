@@ -11,7 +11,7 @@
   },
   "author": "zh3557",
   "license": "ISC",
-  "readme": "README.md",
+  "readme": "readme.md",
   "dependencies": {
     "fis-parser-less": "^0.1.3",
     "fis3": "^3.0.6",
