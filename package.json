@@ -20,9 +20,6 @@
     "liftoff": "^2.1.0",
     "minimist": "^1.1.1"
   },
-  "keywords": [
-    "fis3-phalcon",
-  ],
   "author": "zh3557",
   "license": "ISC"
 }
