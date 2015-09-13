@@ -1,6 +1,6 @@
 {
   "name": "fis3-phalcon",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "基于 FIS3 的针对 phalcon及phalconplus 框架的前端工程解决方案",
   "main": "index.js",
   "bin": {
