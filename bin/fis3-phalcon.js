@@ -17,7 +17,7 @@ var cli = new Liftoff({
 
 cli.launch({
   cwd: argv.r || argv.root,
-  configPath: argv.f || argv.file`
+  configPath: argv.f || argv.file
 }, function(env) {
   var fis;
   if (!env.modulePath) {
